@@ -1,5 +1,6 @@
 # HealthPro - Sistema de Gestão de Saúde
 
+
 Este projeto é uma aplicação desenvolvida em .NET, estruturada com base nos princípios de Clean Architecture. O objetivo principal é fornecer uma plataforma robusta para a gestão de informações relacionadas à saúde, garantindo escalabilidade, manutenibilidade e facilidade de testes.
 
 ---
