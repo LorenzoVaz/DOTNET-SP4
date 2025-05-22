@@ -22,7 +22,7 @@ O projeto está organizado nos seguintes diretórios:
 
 A qualidade do código é assegurada por meio de uma suíte abrangente de testes automatizados:
 
-- **Testes Unitários**: Verificam individualmente as funcionalidades dos serviços e repositórios, garantindo que cada componente funcione isoladamente.
+- **Testes Unitários**: Verificam individualmente as funcionalidades dos serviços e repositórios, garantindo que cada componente funcione isoladamente na aplicação.
 - **Testes de Integração**: Avaliam a interação entre diferentes partes do sistema, como a comunicação entre a camada de aplicação e a infraestrutura de dados.
 
 Os testes são escritos utilizando o framework [xUnit](https://xunit.net/) e seguem as melhores práticas para garantir confiabilidade e facilidade de manutenção.
